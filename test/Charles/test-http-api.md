@@ -24,3 +24,4 @@ We could generate our custom response easily. And here is my test response JSON 
 {"name":"futeng"}
 ```
 
+![image-20180621235630615](assets/image-20180621235630615.png)
