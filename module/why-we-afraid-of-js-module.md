@@ -48,7 +48,7 @@ function foo() {
         return cars;
     }
     return {
-        name:getName,
+        name:fo,
         cars:getCars
     }
 }
