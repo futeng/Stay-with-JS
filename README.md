@@ -8,28 +8,29 @@ Contact us:
 ## Contents
 
 - PART I: Core Concepts in JavaScript 
-  - About this Book (201811)  
-  - Brief History of JavaScript (201811)  
-  - Quick Start (201811)  
+  - 1.About this Book (201811)  
+  - 2.Brief History of JavaScript (201811)  
+  - 3.Quick Start (201811)  
     - Chrome V8 Engine 
     - Crack Your Account 
     - Charles 
-  - Basic Compiler Principal (201807) 
-  - Core Concepts (201806) 
-    - Name Binding 
-    - Scope 
+  - 4.Basic Compiler Principal (201807) 
+  - 5.Core Concepts (201806) 
+    - 5.1 Name Binding 
+    - 5.2 Scope 
       - Lexical Scope 
       - Dynamic Scope 
-    - Closure 
-    - Function as First-Class Objects 
-    - Call Back 
-    - Prototype and this 
-    - Module 
-  - ES6 (201808) 
-  - Bast Practice (201811)  
+    - 5.3 Closure 
+    - 5.4 Function as First-Class Objects 
+    - 5.5 Call Back 
+    - 5.6 Prototype and this 
+      - 5.6.1 Call-Site
+    - 5.7 Module 
+  - 6.ES6 (201808) 
+  - 7.Bast Practice (201811)  
     - Functional Programming 
     - jQuery with Chain 
-  - Working with Browser (201807) 
+  - 8.Working with Browser (201807) 
     - DOM 
     - HTML5&CSS3 
 - PART II: Master in JavaScript Eoosystem 
