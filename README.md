@@ -40,4 +40,4 @@ Contact us:
   - Master in Node.js (201809)  
   - Master in WeChart Mini-Programs (201810)  
 - PART III: Case in Action (201812)  
-- Recommond and Bravo Questions (201811)  
+- PART IV: Recommond and Bravo Questions (201811)  
