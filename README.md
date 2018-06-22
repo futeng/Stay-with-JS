@@ -8,8 +8,8 @@ Contact us:
 ## Contents
 
 - PART I: Core Concepts in JavaScript 
-  - About this book (201811)  
-  - Brief history of JavaScript (201811)  
+  - About this Book (201811)  
+  - Brief History of JavaScript (201811)  
   - Quick Start (201811)  
     - Chrome V8 Engine 
     - Crack Your Account 
