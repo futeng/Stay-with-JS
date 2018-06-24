@@ -1,0 +1,11 @@
+- this 知识点来源
+  - You don't know js - this 
+    - 栈调用顺序
+    - this 不使用词法作用域，是编译器隐形获取调用位置上下文的指示
+    - this 的4种定义的方法和顺序
+  - [bind and this - Object Creation in JavaScript P1 - FunFunFunction #43](https://www.youtube.com/watch?v=GhbhD1HR5vk)
+    - 举例子说明了 bind、call、还有个函数之间的关系
+  - [Javascript Context Tutorial - What makes Javascript Weird...and Awesome Pt5](https://www.youtube.com/watch?v=fjJoX9F_F5g&index=5&list=PLoYCgNOIyGABI011EYc-avPOsk1YsMUe_)
+    - 说明了其实this 指示的是 context 上下文的含义
+  - 加上国内的一些有些博客说明，对每个例子做详尽的解释即可
+
