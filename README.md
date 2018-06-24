@@ -23,9 +23,10 @@ Contact us:
     - 5.3 Closure 
     - 5.4 Function as First-Class Objects 
     - 5.5 Call Back 
-    - 5.6 Prototype and this 
-      - 5.6.1 Call-Site
-    - 5.7 Module 
+    - 5.6 this
+    - 5.7 Prototype
+      - 5.7.1 Call-Site
+    - 5.8 Module 
   - 6.ES6 (201808) 
   - 7.Bast Practice (201811)  
     - Functional Programming 
