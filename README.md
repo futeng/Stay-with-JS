@@ -43,3 +43,6 @@ Contact us:
   - Master in WeChart Mini-Programs (201810)  
 - PART III: Case in Action (201812)  
 - PART IV: Recommond and Bravo Questions (201811)  
+  - 程序语音的序曲
+  - 结构抽象
+  - 设计的极致是下意识
