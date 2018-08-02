@@ -8,4 +8,6 @@
 - 2018-07-28 22:32 | 。。。 | test github speed
 - 2018-07-29 19:17 | unbelievable
 - 2018-07-31 21:18 | ... | ...
+- 2018-08-01 19:35 | working...
+- 2018-08-02 20:22 | working again not good 
 
