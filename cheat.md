@@ -12,4 +12,4 @@
 - 2018-08-02 20:22 | working again not good 
 - 2018-08-03 20:21 | shut up
 - 2018-08-04 21:40 | ... god
-
+- 2018-08-05 20:24 | ...bad macbook pro
