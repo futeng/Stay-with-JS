@@ -15,3 +15,4 @@
 - 2018-08-05 20:24 | ...bad macbook pro
 - 2018-08-06 18:27 | change road?
 - 2018-08-07 19:42 | he he.
+- 2018-08-08 18:02 | will stop today
