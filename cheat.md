@@ -18,3 +18,4 @@
 - 2018-08-08 18:02 | will stop today
 - 2018-08-11 20:09 | stop 
 - 2018-08-12 22:19 | cheat ccc
+- 2018-08-13 16:06 | why cheat everday
