@@ -34,3 +34,4 @@
 - 2018-08-27 09:30 | kun
 - 2018-08-28 16:46 | why we here
 - 2018-08-29 21:00 | still working
+- 2018-08-30 09:26 | I am not a programmer.
