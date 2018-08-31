@@ -35,4 +35,4 @@
 - 2018-08-28 16:46 | why we here
 - 2018-08-29 21:00 | still working
 - 2018-08-30 09:26 | I am not a programmer.
-- 2018-08-31 09:31 | I am not a programmer bad.
+- 2018-08-31 09:31 | I am not a programmer bad. | NOT ALLOWED
